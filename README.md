@@ -1,5 +1,6 @@
 #카메라 사양
 * 모델: BFLY-PGE-31S4C-C [상세스펙](https://www.flirkorea.com/products/blackfly-gige/?model=BFLY-PGE-31S4C-C&vertical=machine%20vision&segment=iis)
+* [SDK 다운로드](https://www.flirkorea.com/browse/oem-cameras-components-and-lasers/software-development-kits/)
 
 # Spinnaker_ImageGrab_MFC
 * EM(Expectation Maximization) 알고리즘을 사용하여 이물검출 코드
